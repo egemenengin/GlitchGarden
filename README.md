@@ -10,6 +10,9 @@
 ## :video_game: **LEVEL SELECTION**
 ![LevelSelection](/GlitchGardenImages/LevelSelectionMenu.png)
 
+## :video_game: **OPTIONS**
+![LevelSelection](/GlitchGardenImages/OptionsMenu.png)
+
 ## :video_game: **GAMEPLAY**
 ![Gameplay](/GlitchGardenImages/InGame.png)
 
